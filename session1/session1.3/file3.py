@@ -1,0 +1,1 @@
+print("But for only one exception")
